@@ -1,0 +1,11 @@
+
+7
+java:S1220""Move this file to a named package.8ÔË¨Ï¡1
+d
+java:S2184"BCast one of the operands of this division operation to a "double".(ÑÁ’ãúÿÿÿÿ8ÔË¨Ï¡1
+U
+java:S1854"8Remove this useless assignment to local variable "row2".(íÜ¬Ä8åË¨Ï¡1
+F
+java:S1481")Remove this unused "row2" local variable.(íÜ¬Ä8æË¨Ï¡1
+H
+java:S2185"&Remove this silly call to "Math.floor"(ÑÁ’ãúÿÿÿÿ8æË¨Ï¡1
